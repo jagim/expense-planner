@@ -13,8 +13,8 @@ Expense Planner is an intuitive and easy-to-use application designed to help you
 
 ### [Tech]
 - React
-- TypeScrip
-- Tailwindcss
+- TypeScript
+- Tailwind
 - Context API
 - Local Storage
 
